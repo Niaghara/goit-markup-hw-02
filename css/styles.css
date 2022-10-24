@@ -93,7 +93,8 @@ a:focus {
   letter-spacing: 0.06em;
   text-transform: uppercase;
 }
-.hero .order {
+
+.order {
   font-family: "Roboto";
   font-style: normal;
   font-weight: 700;
@@ -181,7 +182,7 @@ a:focus {
 /* Портфоліо. Фільтр-ліст */
 
 .filter-button {
-  font-family: 'Roboto';
+  font-family: "Roboto";
   font-weight: 500;
   font-size: 16px;
   line-height: 1.63;
